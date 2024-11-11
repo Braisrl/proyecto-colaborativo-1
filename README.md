@@ -1,2 +1,2 @@
-# proyecto-colaborativo-1
-Proyecto para realizar la tarea "Tareas con Git y Github"
+# Proyecto Colaborativo
+Este es un proyecto colaborativo para practicar Git y GitHub.
